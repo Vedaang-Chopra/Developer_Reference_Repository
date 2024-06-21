@@ -1,0 +1,9 @@
+Steps Involved in EDA:
+
+
+1. Initial Setps Involde as you begin with dataset
+    a. Shape (shape)
+    b. Columns Name (columns)
+    c. Output Clasess (If classification check count of labels for Y feature) . Identify whether dataset is balanced or imbalanced.
+    d. Plotiing
+        i. Scatter Plots: Check Range of values for each feature (x) 

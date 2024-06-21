@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d622c2e-bac9-4d2e-86fa-da5688e18915" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Classification_Measures/f-01(Introduction_to_Classification_Measures).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Data_Pre_Processing/f-03(Handling_Null_data_and_Label_and_One_Hot_Encoding).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Boosting_Technique/XGBoost/Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Clustering_Algorithms/f-02(Self_Implementation_of_KMeans_Clustering_Algorithm).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/f-01(Introduction_to_PCA_on_2D).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/Old Scans and Scripts/Malware_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/.idea/Deep_Learning_Code_Repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/.idea/Deep_Learning_Code_Repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Convolution_Neural_Networks/7. CNN-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Convolution_Neural_Networks/7. CNN-MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Convolution_Neural_Networks/f-01(Introduction_to_Convolution_Neural_Networks).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Convolution_Neural_Networks/f-01(Introduction_to_Convolution_Neural_Networks).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Tensorflow_and_Keras/7. KerasIntro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Tensorflow_and_Keras/7. KerasIntro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Tensorflow_and_Keras/f-03(Introduction to Keras using Breast Cancer Dataset).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Deep_Learning_Code_Notes/Tensorflow_and_Keras/f-03(Introduction to Keras using Breast Cancer Dataset).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Classification_Measures/f-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/0000000000000826.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/0000000000000826.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-01(Introduction and Manipulating  Data Frames) .py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/f-01(Introduction_to_Pandas_and_Manipulating_Data_Frames).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-02(Manipulating Data Frames).py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/f-02(Manipulating_Data_Frames).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-03(Handling NaN and strings).py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/f-03(Handling_NaN_and_strings).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-04(Data Pre Processing with SKLearn).py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Data_Pre_Processing/f-02(Data_Pre_Processing_with_SKLearn).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/iris_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/All_External_CSV_Datasets_Used/iris_dataframe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/titanic_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/All_External_CSV_Datasets_Used/titanic_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/iris_dataframe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/iris_dataframe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/titanic_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library/titanic_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_Machine_Learning/f-02(Working with Boston Data Set).py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_To_Machine_Learning/f-02(Working with Boston Data Set).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_Machine_Learning/f-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Data_Pre_Processing/f-01(Cleaning_Titanic_Dataset_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/Count_Vectorizer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/F-02(SKLearn_Classifiers).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/Count_Vectorizer-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-via-NLTK.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/NLTK_Classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/f-01(Introduction_to_NLP).py" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/f-01(Introduction_to_NLP).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/f-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/f-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Natural_Language_Processing/f-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Natural_Language_Processing/f-03(NLP_on_Movie_Reviews_Dataset_and_Count_Vectorizer).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/f-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/f-02(Self_Implementation_of_Naive_Bayes).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests/f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree).py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests/f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-03(SVM_Iris_Data).py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-03(SVM_Iris_Data).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-05(Using_Grid_Search_with_SVM).py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-05(Using_Grid_Search_with_SVM).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-02(Implementing_Gradient_Descent_on_Linear_Data).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-03(Implementing_Gradient_Descent_Linear_Data-2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-04(Implementing_Gradient_Descent_Multi_Dimensional_Featured_Data).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/PCA_Notes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/PCA_Notes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/f-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/Malware_Zip_Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/Malware_Zip_Analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/End Point Security Tool/Code_Base/Malware_Analysis.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_04_Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM_.coverage" NAME="f-04(Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM) Coverage Results" MODIFIED="1580870480599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_one_hidden_layer_.coverage" NAME="f-03(Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_one_hidden_layer) Coverage Results" MODIFIED="1586609565403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Logistic_Regression_.coverage" NAME="f-01(Introduction_to_Logistic_Regression) Coverage Results" MODIFIED="1580772054415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Logistic_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02__.coverage" NAME="f-02() Coverage Results" MODIFIED="1581762397889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Tensorflow_and_Keras" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Cleaning_Titanic_Dataset_.coverage" NAME="f-01(Cleaning_Titanic_Dataset_ Coverage Results" MODIFIED="1581904707137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Data_Pre_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_SVM_.coverage" NAME="f-01(Introduction_to_SVM) Coverage Results" MODIFIED="1580860623167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Introduction_to_Keras_using_Breast_Cancer_Dataset_.coverage" NAME="f-03(Introduction to Keras using Breast Cancer Dataset) Coverage Results" MODIFIED="1582008882252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Tensorflow_and_Keras" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$File_List_to_CSV.coverage" NAME="File_List_to_CSV Coverage Results" MODIFIED="1596635765898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01__1_.coverage" NAME="f-01 (1) Coverage Results" MODIFIED="1581211592897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Neural_Networks_using_SKlearn_.coverage" NAME="f-01(Introduction_to_Neural_Networks_using_SKlearn) Coverage Results" MODIFIED="1581559795718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Naive_bayes_.coverage" NAME="f-01(Introduction_to_Naive_bayes) Coverage Results" MODIFIED="1581193422432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Linear_Simple_regression_using_pre_defined_functions_.coverage" NAME="f-01(Linear Simple regression using pre-defined functions) Coverage Results" MODIFIED="1580851311792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_PCA_on_2D_.coverage" NAME="f-01(Introduction_to_PCA_on_2D) Coverage Results" MODIFIED="1584655333133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Effects_of_C_on_Decision_Boundary_.coverage" NAME="f-02(Understanding_Effects_of_C_on_Decision_Boundary) Coverage Results" MODIFIED="1580861126047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Support_Vetor_Regression_.coverage" NAME="f-01(Introduction_to_Support_Vetor_Regression) Coverage Results" MODIFIED="1581292078229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Support_Vector_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_SVM_Iris_Data_.coverage" NAME="f-03(SVM_Iris_Data) Coverage Results" MODIFIED="1582713977609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_04_Data_Pre_Processing_with_SKLearn_.coverage" NAME="f-04(Data Pre Processing with SKLearn) Coverage Results" MODIFIED="1580062521333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas_Library_and_Data_Pre_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Cross_Validation_.coverage" NAME="f-02(Understanding_Cross_Validation) Coverage Results" MODIFIED="1580948471164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Creating_Pie_Charts_.coverage" NAME="f-03(Creating_Pie_Charts) Coverage Results" MODIFIED="1582010646445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Handling_Null_data_and_Labe_and_One_Hot_Encoding_.coverage" NAME="f-03(Handling_Null_data_and_Labe_and_One_Hot_Encoding) Coverage Results" MODIFIED="1581905679238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Data_Pre_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02.coverage" NAME="f-02 Coverage Results" MODIFIED="1581434940610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Natural_Language_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Cross_Validation_and_relation_between_K_and_Score__.coverage" NAME="f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score ) Coverage Results" MODIFIED="1589680914023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Multi_Variable_Regression_.coverage" NAME="f-01(Introduction_to_Multi_Variable_Regression) Coverage Results" MODIFIED="1581208642887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$xgboost.coverage" NAME="xgboost Coverage Results" MODIFIED="1581926892777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Boosting_Technique/XGBoost" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Numpy_.coverage" NAME="f-01(Introduction_to_Numpy) Coverage Results" MODIFIED="1580073630951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Libraries/Numpy" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Operations_on_Numpy_Array_.coverage" NAME="f-02(Operations on Numpy Array) Coverage Results" MODIFIED="1580073280519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Libraries/Numpy" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01.coverage" NAME="f-01 Coverage Results" MODIFIED="1581196907794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Classification_Measures" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01__2_.coverage" NAME="f-01 (2) Coverage Results" MODIFIED="1581405069998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Natural_Language_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_PCA_.coverage" NAME="f-01(Introduction_to_PCA) Coverage Results" MODIFIED="1584654867245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Matplotlib_.coverage" NAME="f-01(Introduction to Matplotlib) Coverage Results" MODIFIED="1582831661865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Plotting_Logistic_Regression_.coverage" NAME="f-02(Plotting_Logistic_Regression) Coverage Results" MODIFIED="1580932579320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Feature_Scaling_.coverage" NAME="f-01(Introduction_to_Feature_Scaling) Coverage Results" MODIFIED="1580683379872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature_Scaling" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03__.coverage" NAME="f-03() Coverage Results" MODIFIED="1581212228978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$adaboost.coverage" NAME="adaboost Coverage Results" MODIFIED="1582558340606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Boosting_Technique" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_NLP_on_Movie_Reviews_Dataset_using_NLTK_Classifier_.coverage" NAME="f-02(NLP_on_Movie_Reviews_Dataset_using_NLTK_Classifier) Coverage Results" MODIFIED="1581437502994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Natural_Language_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Building_KNN_from_Scratch_.coverage" NAME="f-03(Building_KNN_from_Scratch) Coverage Results" MODIFIED="1580948978535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Decision_Trees_.coverage" NAME="f-01(Introduction_to_Decision_Trees) Coverage Results" MODIFIED="1581027278516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$classification_template.coverage" NAME="classification_template Coverage Results" MODIFIED="1592006863012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Working_with_Boston_Data_Set_.coverage" NAME="f-02(Working with Boston Data Set) Coverage Results" MODIFIED="1582831696163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction_To_Machine_Learning" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree_.coverage" NAME="f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree) Coverage Results" MODIFIED="1582456477762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Self_Implementation_of_KMeans_Clustering_Algorithm_.coverage" NAME="f-02(Self_Implementation_of_KMeans_Clustering_Algorithm) Coverage Results" MODIFIED="1589558004217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unsupervised_Learning/Clustering_Algorithms" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_XGBoost_.coverage" NAME="f-01(Introduction_to_XGBoost) Coverage Results" MODIFIED="1581960065897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Boosting_Technique/XGBoost" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Customizing_our_Graphs_.coverage" NAME="f-02(Customizing_our_Graphs) Coverage Results" MODIFIED="1582010586846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Implementing_Self_Neural_Network_.coverage" NAME="f-02(Implementing_Self_Neural_Network) Coverage Results" MODIFIED="1581639299782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$practice.coverage" NAME="practice Coverage Results" MODIFIED="1582726891496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Forward_and_Backward_Propagation_on_Simple_Neural_Network_.coverage" NAME="f-02(Understanding_Forward_and_Backward_Propagation_on_Simple_Neural_Network) Coverage Results" MODIFIED="1581641086474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_NLP_on_Movie_Reviews_Dataset_and_Count_Vectorizer_.coverage" NAME="f-03(NLP_on_Movie_Reviews_Dataset_and_Count_Vectorizer) Coverage Results" MODIFIED="1582713617926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Natural_Language_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_no_hidden_layer_.coverage" NAME="f-02(Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_no_hidden_layer) Coverage Results" MODIFIED="1581741735396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Tensorflow_.coverage" NAME="f-01(Introduction_to_Tensorflow) Coverage Results" MODIFIED="1581761424457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Tensorflow_and_Keras" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_NLP_on_Movie_Reviews_Dataset_using_NLTK_and_SKLearn_Classifier_.coverage" NAME="f-02(NLP_on_Movie_Reviews_Dataset_using_NLTK_and_SKLearn_Classifier) Coverage Results" MODIFIED="1581447872639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Natural_Language_Processing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>desc</find>
+      <find>replace</find>
+      <find>print(</find>
+      <find>Freq</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nFuJlZDmwo2IxWvMjhkwQsG4LW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AI-Projects/Other_Machine_Learning_Projects" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Supervised_Learning\Classification_Techniques\Boosting_Technique\XGBoost" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\All_External_CSV_Datasets_Used" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Data_Pre_Processing_and_Model_Evaluation\Data_Pre_Processing" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Natural_Language_Processing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\All_External_CSV_Datasets_Used" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Deep_Learning_Code_Repository" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Deep_Learning_Code_Repository\Tensorflow_and_Keras" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Deep_Learning_Code_Repository\Recurrent_Neural_Networks" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Deep_Learning_Code_Repository\Convolution_Neural_Networks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.File_List_to_CSV">
+    <configuration name="File_List_to_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_List_to_CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/classification_template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-02(Self_Implementation_of_KMeans_Clustering_Algorithm)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unsupervised_Learning/Clustering_Algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unsupervised_Learning/Clustering_Algorithms/f-02(Self_Implementation_of_KMeans_Clustering_Algorithm).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score )" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score ).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-03(Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_one_hidden_layer)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep_Learning_Code_Repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Deep_Learning_Code_Repository/Introduction_to_Neural_Networks/f-03(Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_one_hidden_layer).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.File_List_to_CSV" />
+        <item itemvalue="Python.classification_template" />
+        <item itemvalue="Python.f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score )" />
+        <item itemvalue="Python.f-02(Self_Implementation_of_KMeans_Clustering_Algorithm)" />
+        <item itemvalue="Python.f-03(Understanding_Forward_and_Backward_Propagation_on_Neural_Network_with_one_hidden_layer)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d622c2e-bac9-4d2e-86fa-da5688e18915" name="Default" comment="" />
+      <created>1540199213235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540199213235</updated>
+      <workItem from="1579615102949" duration="8111000" />
+      <workItem from="1579887949013" duration="3770000" />
+      <workItem from="1580040789071" duration="13487000" />
+      <workItem from="1580125458362" duration="3466000" />
+      <workItem from="1580493537126" duration="1703000" />
+      <workItem from="1580556205758" duration="10964000" />
+      <workItem from="1580671609112" duration="5459000" />
+      <workItem from="1580738802027" duration="9634000" />
+      <workItem from="1580771674556" duration="2467000" />
+      <workItem from="1580820972576" duration="11423000" />
+      <workItem from="1580925949001" duration="15444000" />
+      <workItem from="1580997103843" duration="11644000" />
+      <workItem from="1581089288873" duration="2243000" />
+      <workItem from="1581188523738" duration="11970000" />
+      <workItem from="1581254637538" duration="11785000" />
+      <workItem from="1581403236737" duration="14943000" />
+      <workItem from="1581498675706" duration="4442000" />
+      <workItem from="1581544032225" duration="18576000" />
+      <workItem from="1581661402523" duration="1790000" />
+      <workItem from="1581665689612" duration="741000" />
+      <workItem from="1581670052541" duration="2000" />
+      <workItem from="1581686818640" duration="1604000" />
+      <workItem from="1581699624071" duration="260000" />
+      <workItem from="1581738516243" duration="6530000" />
+      <workItem from="1581752704409" duration="11657000" />
+      <workItem from="1581781032509" duration="1864000" />
+      <workItem from="1581821820812" duration="2871000" />
+      <workItem from="1581864461733" duration="110000" />
+      <workItem from="1581900720252" duration="10977000" />
+      <workItem from="1581945321406" duration="1312000" />
+      <workItem from="1582005586447" duration="8850000" />
+      <workItem from="1582437405057" duration="6100000" />
+      <workItem from="1582546723289" duration="3707000" />
+      <workItem from="1582618410075" duration="862000" />
+      <workItem from="1582709438800" duration="4000" />
+      <workItem from="1582712745187" duration="8143000" />
+      <workItem from="1582799333146" duration="4829000" />
+      <workItem from="1583187357298" duration="679000" />
+      <workItem from="1583234660381" duration="3416000" />
+      <workItem from="1583845292593" duration="365000" />
+      <workItem from="1583868471238" duration="610000" />
+      <workItem from="1583926588669" duration="3496000" />
+      <workItem from="1584005287503" duration="7168000" />
+      <workItem from="1584036085820" duration="1220000" />
+      <workItem from="1584479975693" duration="729000" />
+      <workItem from="1584558643124" duration="7365000" />
+      <workItem from="1584654611459" duration="1261000" />
+      <workItem from="1585244340573" duration="984000" />
+      <workItem from="1585831280285" duration="3925000" />
+      <workItem from="1586004050517" duration="1309000" />
+      <workItem from="1586009730996" duration="2401000" />
+      <workItem from="1586529552320" duration="1881000" />
+      <workItem from="1586609067427" duration="1503000" />
+      <workItem from="1587814386586" duration="6030000" />
+      <workItem from="1587904535284" duration="1479000" />
+      <workItem from="1589136261863" duration="639000" />
+      <workItem from="1589148123678" duration="149000" />
+      <workItem from="1589320873189" duration="747000" />
+      <workItem from="1589322549131" duration="2223000" />
+      <workItem from="1589330690503" duration="614000" />
+      <workItem from="1589364791151" duration="1707000" />
+      <workItem from="1589371617705" duration="636000" />
+      <workItem from="1589467305528" duration="599000" />
+      <workItem from="1589471678338" duration="627000" />
+      <workItem from="1589557679258" duration="925000" />
+      <workItem from="1589636257978" duration="5126000" />
+      <workItem from="1589683304903" duration="603000" />
+      <workItem from="1589822606370" duration="730000" />
+      <workItem from="1589928672988" duration="1052000" />
+      <workItem from="1589957014315" duration="1518000" />
+      <workItem from="1590012304924" duration="637000" />
+      <workItem from="1590013534560" duration="665000" />
+      <workItem from="1590039111709" duration="134000" />
+      <workItem from="1590190428815" duration="611000" />
+      <workItem from="1590213823182" duration="598000" />
+      <workItem from="1590248545674" duration="597000" />
+      <workItem from="1590592176192" duration="3159000" />
+      <workItem from="1591035634444" duration="3030000" />
+      <workItem from="1591108731352" duration="600000" />
+      <workItem from="1591290616861" duration="5361000" />
+      <workItem from="1591346936987" duration="76000" />
+      <workItem from="1591450934646" duration="598000" />
+      <workItem from="1591453503241" duration="2296000" />
+      <workItem from="1591647006755" duration="1615000" />
+      <workItem from="1591713334276" duration="598000" />
+      <workItem from="1592005221268" duration="1968000" />
+      <workItem from="1592320026656" duration="618000" />
+      <workItem from="1592396558929" duration="657000" />
+      <workItem from="1592576967430" duration="505000" />
+      <workItem from="1592776774442" duration="599000" />
+      <workItem from="1592846540802" duration="599000" />
+      <workItem from="1593197335532" duration="2858000" />
+      <workItem from="1593250373863" duration="6508000" />
+      <workItem from="1594234234501" duration="3219000" />
+      <workItem from="1594380773075" duration="400000" />
+      <workItem from="1594413502737" duration="633000" />
+      <workItem from="1594418386003" duration="1780000" />
+      <workItem from="1594469482248" duration="1699000" />
+      <workItem from="1595518201552" duration="4123000" />
+      <workItem from="1595596652733" duration="3321000" />
+      <workItem from="1595847578075" duration="1778000" />
+      <workItem from="1596635445891" duration="339000" />
+      <workItem from="1596917546013" duration="1203000" />
+      <workItem from="1596989360739" duration="2311000" />
+      <workItem from="1597094998588" duration="1544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="354697000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../Projects/Projects/Python Projects/Machine and Deep Learning/Deep_Learning" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610999507254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/3840.-433.1080.1880/1920.0.1920.1040@0.0.1920.1040" timestamp="1610999507254" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN).py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-01(Introduction_to_Multi_Variable_Regression).py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
