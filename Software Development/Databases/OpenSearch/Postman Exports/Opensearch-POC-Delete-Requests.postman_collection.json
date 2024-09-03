@@ -1,0 +1,202 @@
+{
+	"info": {
+		"_postman_id": "cb7edf9d-1cb2-497c-b495-11621e5aa29d",
+		"name": "Opensearch-POC-Delete-Requests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24596326",
+		"_collection_link": "https://aiops-opensearch-poc.postman.co/workspace/OpenSearch-Requests~bdd4a8ab-4e26-4ffd-b3a8-febad5fe3cab/collection/24596326-cb7edf9d-1cb2-497c-b495-11621e5aa29d?action=share&source=collection_link&creator=24596326"
+	},
+	"item": [
+		{
+			"name": "Life Cycle Policy",
+			"item": [
+				{
+					"name": "delete_specific_policy",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_plugins/_ism/policies/wireless-demo-policy",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"_plugins",
+								"_ism",
+								"policies",
+								"wireless-demo-policy"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Data Streams",
+			"item": [
+				{
+					"name": "delete_data_stream",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_data_stream/wireless-demo-data-stream-practice-2",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"_data_stream",
+								"wireless-demo-data-stream-practice-2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Component Templates",
+			"item": [
+				{
+					"name": "delete_component_template",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_component_template/wireless_demo_component_template",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"_component_template",
+								"wireless_demo_component_template"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Index Templates",
+			"item": [
+				{
+					"name": "delete_index_templates",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_index_template/alias_demo_index_template",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"_index_template",
+								"alias_demo_index_template"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Index",
+			"item": [
+				{
+					"name": "deletion_index",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/wireless",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"wireless"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Index Alias",
+			"item": [
+				{
+					"name": "delete_index_alias",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/index-alias-practice-index-2/_aliases/alias_practice",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								"index-alias-practice-index-2",
+								"_aliases",
+								"alias_practice"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "admin",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "admin",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

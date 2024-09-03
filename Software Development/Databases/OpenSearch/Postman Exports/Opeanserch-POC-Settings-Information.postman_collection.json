@@ -1,0 +1,146 @@
+{
+	"info": {
+		"_postman_id": "100db94c-0fa8-4fae-9062-53d74b34a6fd",
+		"name": "Opeanserch-POC-Settings-Information",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24596326",
+		"_collection_link": "https://aiops-opensearch-poc.postman.co/workspace/OpenSearch-Requests~bdd4a8ab-4e26-4ffd-b3a8-febad5fe3cab/collection/24596326-100db94c-0fa8-4fae-9062-53d74b34a6fd?action=share&source=collection_link&creator=24596326"
+	},
+	"item": [
+		{
+			"name": "cluster_settings",
+			"item": [
+				{
+					"name": "change_cluster_settings",
+					"item": [
+						{
+							"name": "change_ism_cluster_setting_job_interval",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n   \"persistent\":{\r\n      \"plugins.index_state_management.job_interval\":1\r\n   }\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_cluster/settings?",
+									"protocol": "{{http_protocol}}",
+									"host": [
+										"{{hostname}}"
+									],
+									"port": "{{opensearch_port}}",
+									"path": [
+										"_cluster",
+										"settings"
+									],
+									"query": [
+										{
+											"key": "",
+											"value": ""
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "fetch_cluster_details",
+					"item": [
+						{
+							"name": "fetch_cluster_settings",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/_cluster/settings?include_defaults=true",
+									"protocol": "{{http_protocol}}",
+									"host": [
+										"{{hostname}}"
+									],
+									"port": "{{opensearch_port}}",
+									"path": [
+										"_cluster",
+										"settings"
+									],
+									"query": [
+										{
+											"key": "include_defaults",
+											"value": "true"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "check_opensearch_details",
+			"item": [
+				{
+					"name": "check_opensearch_status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{http_protocol}}://{{hostname}}:{{opensearch_port}}/",
+							"protocol": "{{http_protocol}}",
+							"host": [
+								"{{hostname}}"
+							],
+							"port": "{{opensearch_port}}",
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "admin",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "admin",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
